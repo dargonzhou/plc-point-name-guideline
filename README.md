@@ -82,7 +82,7 @@
 > * `JT` 交通系统
 > * `L`  左向隧道
 > * `21` 车道指示器
-> * `03` 车道3 <sup>[Ref [京广路隧道南段设备分组及代码](./device-groups/JN.md#左向){:target="_blank"}]</sup>
+> * `03` 车道3 <sup>\[Ref [京广路隧道南段设备分组及代码](./device-groups/JN.md#左向)\]</sup>
 > * `ZSD30` 车道指示器为 `ZSD30`
 > * `RG` 开关量输入.箭头开关
 
