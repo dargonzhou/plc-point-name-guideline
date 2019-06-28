@@ -5,5 +5,5 @@
 
 3.	重新下载程序到PLC中
 
-**注意： 需要采集的DB块都需要设置**
+<p style='font-weight: bold; color: red;'>注意： 需要采集的DB块都需要设置<p>
 
