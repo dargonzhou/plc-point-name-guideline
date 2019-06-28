@@ -1,5 +1,7 @@
 # PLC 信息点命名约定
 
+###### [PLC 数据采集配置需求](./s7-config/s7-config.md)
+
 ## 基本规则
 
 `AABBCDDEE_FFF_GGG`
