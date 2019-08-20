@@ -72,8 +72,8 @@
             
 ### 分组代码
 各隧道各不相同, 请参考以下链接: 
-- [京广路隧道南段](./device-groups/JN.md)
-- [京广路隧道北段](./device-groups/JB.md)
+- [京广南路隧道](./device-groups/JN.md)
+- [京广北路隧道](./device-groups/JB.md)
 - [纬四路隧道](./device-groups/WS.md)
 - [经三路隧道](./device-groups/JS.md)
 - [未来路隧道](./device-groups/WL.md)
@@ -96,10 +96,10 @@
 ### 举例点名
 
 点名 `JNJTL2103_ZSD30_RO` 对应:
-> * `JN` 京广路隧道南段
+> * `JN` 京广南路隧道
 > * `JT` 交通系统
 > * `L`  左向隧道
 > * `21` 车道指示器
-> * `03` 车道3 <sup>\[Ref [京广路隧道南段设备分组及代码](./device-groups/JN.md#左向)\]</sup>
+> * `03` 车道3 <sup>\[Ref [京广南路隧道设备分组及代码](./device-groups/JN.md#左向)\]</sup>
 > * `ZSD30` 车道指示器名称为 `ZSD30`
 > * `RO` 箭头开关信号
