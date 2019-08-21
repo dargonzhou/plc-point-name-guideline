@@ -7,7 +7,10 @@
 ##### 一般规则
 `AABBCDDEE_FFF_GGG`
 
-##### 照明设备编码规则
+##### 照明点位编码规则
+`AABBCDDEE_GGG`
+
+##### 泵房点位编码规则
 `AABBCDDEE_GGG`
 
 ##### 全局信息点名规则 <sup>\[Ref [全局点名](./data-points.md#全局)\]</sup>
