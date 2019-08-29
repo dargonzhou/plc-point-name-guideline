@@ -67,7 +67,7 @@
 `CWA` | 报警液位 | 输入/输出 | float
 `RWL1` | 液位#1 | 模拟输出 | float
 `RWL2` | 液位#2 | 模拟输出 | float
-`RWF` | 流量 | 模拟输出 | float
+`RWF` | 流速(实时流量) | 模拟输出 | float
 `RWC` | 累积流量 | 模拟输出 | float
 `RWH` | 高水位报警 | 输出 | bit
 
